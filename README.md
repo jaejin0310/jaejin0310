@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- Name :   Jaejin Choi <br>
+- Age : 20 <br>
+- Gachon University AI-software department (AI) <br>
 <!--
 **jaejin0310/jaejin0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
